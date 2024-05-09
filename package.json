@@ -1,0 +1,8 @@
+{
+    "name": "basicDropDownMenu",
+    "version": "1.0.0",
+    "description": "A basic drop down menu that can be reused and modified as per need.",
+    "main": "src/dropDownMenu.js",
+    "author": "Rajat Porwal",
+    "license": "MIT"
+  }
